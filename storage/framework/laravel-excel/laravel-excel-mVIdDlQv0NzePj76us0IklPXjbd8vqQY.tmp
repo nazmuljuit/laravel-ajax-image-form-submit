@@ -1,0 +1,6 @@
+"SL","Employee Name","Employee Code","Group","Department","Designation","Branch","Mobile","Father Name","Mother Name","Religion","Gender","Action"
+"1","Ibrahim","0012","Shampan IT","Marketing","Marketing Officer","Dhanmondi","0192365","test1","test","Islam","Male",""
+"2","Nazmul Hossain","","Shampan IT","Development","Sr Software Engineer","Dhanmondi","","test","test","","",""
+"3","Nazmul Hossain","7410","Shampan IT","Development","Sr Software Engineer","Dhanmondi","0192365","","","","",""
+"4","Musfiq","","Shampan IT","Development","Software Engineer","Dhanmondi","","","","","",""
+"5","Sobuj","","Shampan IT","Operations","HR Manager","Dhanmondi","","test","test","","",""
