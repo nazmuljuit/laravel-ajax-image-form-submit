@@ -1,2 +1,3 @@
 # laravel5.5initial
-It is laravel 5.5 basic setup.
+It is example of laravel ajax,image form submit
+Jquery is more use here. 
